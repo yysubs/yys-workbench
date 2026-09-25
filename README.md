@@ -1,3 +1,3 @@
 # yys-workbench
 
-https://yys-workbench.yysubs.com/
+https://yys.yysubs.com/
